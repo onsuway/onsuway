@@ -4,11 +4,11 @@
 <p align="center">Don’t just code what others tell you to code, create what you want to create.</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susuyaa&layout=compact&theme=algolia" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onsuway&layout=compact&theme=algolia" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=susuyaa&show_icons=true&include_all_commits=true&theme=algolia" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=onsuway&show_icons=true&include_all_commits=true&theme=algolia" alt="GitHub Stats"/>
 </p>
 
 
